@@ -1,3 +1,13 @@
+Memanipulasi Citra menggunakan OpenCv dengan Bahas Program Python 
+
+3 metode 
+    - Penskalaan
+    - rotasi
+    - translasi citra
+
+
+
+NOTE :
 
 def inisialisasiImg(inputfoto):
     """cek alamat IMG"""
