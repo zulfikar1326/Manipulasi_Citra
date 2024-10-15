@@ -1,1 +1,0 @@
-# Manipulasi_Citra
